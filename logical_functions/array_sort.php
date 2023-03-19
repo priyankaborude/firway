@@ -32,7 +32,8 @@ function sortArray($arr) {
 
 $arr = [0, 1, 2, 0, 1, 2];
 $sortedArr = sortArray($arr);
-print_r($sortedArr); // outputs: Array ( [0] => 0 [1] => 0 [2] => 1 [3] => 1 [4] => 2 [5] => 2 )
+print_r($sortedArr); 
+// outputs: Array ( [0] => 0 [1] => 0 [2] => 1 [3] => 1 [4] => 2 [5] => 2 )
 
 
 ?>

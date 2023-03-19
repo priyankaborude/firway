@@ -22,6 +22,7 @@ $arr = [2, 4, 6, 8, 10];
 $L = 15;
 $R = 80;
 $count = countPairsInRange($arr, $L, $R);
-echo "Number of pairs with product in [$L, $R] range: " . $count; // Output: Number of pairs with product in [15, 80] range: 4
+echo "Number of pairs with product in [$L, $R] range: " . $count;
+ // Output: Number of pairs with product in [15, 80] range: 4
 
 ?>
